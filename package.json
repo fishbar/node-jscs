@@ -72,7 +72,7 @@
     "jscs-jsdoc": "1.1.0",
     "lodash.assign": "~3.2.0",
     "minimatch": "~2.0.1",
-    "pathval": "~0.1.1",
+    "pathval": "~1.1.1",
     "prompt": "~0.2.14",
     "strip-json-comments": "~1.0.2",
     "to-double-quotes": "^1.0.0",
